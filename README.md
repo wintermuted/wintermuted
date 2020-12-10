@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**wintermuted/wintermuted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Jameson.  I'm a software engineer living and working in Portland, Oregon in the Cascadia bioregion.
 
 - 🔭 I’m currently working on [super-cascadia-rpg](https://github.com/Super-Cascadia/super-cascadia-rpg)
