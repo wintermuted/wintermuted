@@ -1,10 +1,16 @@
 ### Hi there 👋
 
-<!--
 **wintermuted/wintermuted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Jameson.  I'm a software engineer living and working in Portland, Oregon in the Cascadia bioregion.
 
+- 🔭 I’m currently working on [super-cascadia-rpg](https://github.com/Super-Cascadia/super-cascadia-rpg)
+- 🌱 I’m currently brushing up on my database design skills.
+
+- 💬 Ask me about Typescript, React, and refactoring.
+- 😄 Pronouns: He/Him/They
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
