@@ -6,6 +6,7 @@ I'm Jameson.  I'm a software engineer living and working in Portland, Oregon in 
 - 🌱 I’m currently brushing up on my database design skills.
 
 - 💬 Ask me about Typescript, React, and refactoring.
+- 📫 How to reach me: Email is the best way to get in contact with me.
 - 😄 Pronouns: He/Him/They
 
 <!--
