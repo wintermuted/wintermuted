@@ -2,8 +2,6 @@
 
 I'm Jameson.  I'm a software engineer living and working in Portland, Oregon in the Cascadia bioregion.
 
-- 🌱 I’m currently on paternity leave.
-
 - 💬 Ask me about Typescript, React, and refactoring.
 - 📫 How to reach me: Email is the best way to get in contact with me.
 - 😄 Pronouns: He/Him
